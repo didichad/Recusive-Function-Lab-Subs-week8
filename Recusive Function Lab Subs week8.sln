@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Recusive Function Lab Subs week8", "Recusive Function Lab Subs week8.pyproj", "{72B673F8-169C-41BC-A59B-CA6DCBA7E061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B673F8-169C-41BC-A59B-CA6DCBA7E061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B673F8-169C-41BC-A59B-CA6DCBA7E061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DB034C-8476-490A-920C-D041F8A29C05}
+	EndGlobalSection
+EndGlobal
